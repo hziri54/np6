@@ -1,0 +1,2 @@
+portrait.jpg, cabinet.jpg, facade.jpg, bandeau-civil.jpg, bandeau-public.jpg, logo.svg (version claire)
+A la racine de assets/: favicon.svg
